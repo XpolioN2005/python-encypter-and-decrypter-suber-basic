@@ -2,7 +2,7 @@ import random
 
 
 password = input("Enter your access key: ")
-key = ["SUB2Harry", "XpolioN@OP"]  #if you don't know the password
+key = ["SUB2Harry", "XpolioN", "Git@Xpo"]  #if you don't know the password (incause yo wander codewithHarry is yt channel where I started learning from)
 
 # functions 
 
